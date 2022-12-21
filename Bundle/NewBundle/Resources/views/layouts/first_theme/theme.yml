@@ -1,0 +1,9 @@
+label:  First Theme
+icon:   bundles/acmenew/default/favicons/favicon.ico
+logo:   bundles/acmenew/imagenes/logo-admin.svg
+parent: default
+groups: [ commerce ]
+rtl_support: true
+  
+
+

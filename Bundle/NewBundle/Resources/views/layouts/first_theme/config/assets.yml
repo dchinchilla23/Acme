@@ -1,0 +1,26 @@
+css:
+    inputs:
+    
+        - 'bundles/acmenew/scss/componets/page-container.scss'
+        - 'bundles/acmenew/scss/componets/page-content.scss'
+        - 'bundles/acmenew/scss/componets/page-footer.scss'
+        - 'bundles/acmenew/scss/componets/page-header.scss'
+        - 'bundles/acmenew/scss/componets/page-title.scss'
+
+        - 'bundles/acmenew/scss/variables/page-container-config.scss'
+        - 'bundles/acmenew/scss/variables/page-content-config.scss'
+        - 'bundles/acmenew/scss/variables/page-footer-config.scss'
+        - 'bundles/acmenew/scss/variables/page-header-config.scss'
+        - 'bundles/acmenew/scss/variables/page-title-config.scss'
+
+        - 'bundles/acmenew/scss/settings/_colors.scss'
+        - 'bundles/acmenew/scss/settings/global-settings.scss'
+        
+        - 'bundles/oroui/blank/scss/variables/page-footer-config.scss'
+        - 'bundles/oroui/blank/scss/variables/page-title-config.scss'
+        - 'bundles/acmenew/scss/styles.scss'
+
+    auto_rtl_inputs:
+
+    filters: ['cssrewrite', 'cssmin']
+    output: 'css/styles.css'

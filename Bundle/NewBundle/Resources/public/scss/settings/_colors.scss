@@ -1,0 +1,21 @@
+$firts-color-palette: (
+    'primary': (
+        'main': #37435c,
+    ),
+    'secondary': (
+        'main': #fcb91d,
+    ),
+    'additional': (
+        'ultra': #fff
+    )
+    );
+    $page-footer-background:(
+        'fondo':(
+            'fondo1': black
+        )
+    
+    );
+
+
+$color-palette: map_merge($color-palette, $theme-color-palette);
+

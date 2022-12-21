@@ -1,0 +1,4 @@
+styles:
+ inputs:
+     - Bundle/NewBundle/Resources/scss/styles.scss
+ output: css/styles.css

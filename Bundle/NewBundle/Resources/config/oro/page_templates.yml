@@ -1,0 +1,19 @@
+templates:
+   -
+       label: Custom page template
+       description: Custom page template description
+       route_name: demo_first_route_name
+       key: custom
+   -
+       label: Additional page template
+       description: Additional page template description
+       route_name: demo_first_route_name
+       key: additional
+   -
+       label: Additional page template
+       description: Additional page template description
+       route_name: demo_second_route_name
+       key: additional
+titles:
+   demo_first_route_name: First route name title
+   demo_second_route_name: Second route name title

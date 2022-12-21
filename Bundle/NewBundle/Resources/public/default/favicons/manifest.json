@@ -1,0 +1,60 @@
+{
+    "name": "Version1 Dch.",
+    "short_name": "Acme Store",
+    "icons": [
+        {
+            "src": "bundles/acmenew/default/favicons/apple-icon-57x57.png",
+            "sizes": "57x57",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/apple-icon-72x72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/apple-icon-114x114.png",
+            "sizes": "114x114",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/apple-icon-152x152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/apple-icon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/favicon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/favicon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/favicon.ico",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "bundles/acmenew/default/favicons/favicon-96x96.png",
+            "sizes": "93x93",
+            "type": "image/png"
+        }
+                                 
+    ],
+    "start_url": "/",
+    "display": "standalone"
+}
+
